@@ -4,7 +4,7 @@ This project demonstrates integration between Github Actions and AWS Elastic Bea
 # Application Details
 Simple React Application created using create-react-app
 
-# Automations Steps
+# Automation Steps
 * Github Action API call into AWS Service
 * Auto provision of AWS EC2 Instance 
 * Auto creation of AWS S3 Bucket for service
