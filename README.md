@@ -14,4 +14,4 @@ Simple React Application created using create-react-app
 * Build Application in the specified container
 * Exposing ports to open world on Edge Servers
 * Route53 Integration possible if needed
-* Auto Backup provisioning can be intergrated with S3 Glacier if needed
+* Auto Backup provisioning can be intergrated with S3 Glacier if needed 
